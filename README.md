@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- Etudiant à CentraleSupélec
-- Alternant chez Polyconseil
+- Student at CentraleSupélec
+- Working for Polyconseil
